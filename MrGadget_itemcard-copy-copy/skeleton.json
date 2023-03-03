@@ -1,0 +1,146 @@
+{
+	"Item": {
+		"flags": {
+			"magicitems": {
+				"destroy": "false",
+				"destroyCheck": "d1",
+				"destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+				"recharge": "0",
+				"rechargeType": "t2"
+			}
+		},
+		"system": {
+			"ability": "",
+			"actionType": "other",
+			"activation": {
+				"cost": "1",
+				"type": "action"
+			},
+			"armor": {
+				"dex": "",
+				"type": "",
+				"value": ""
+			},
+			"attackBonus": "0",
+			"capacity": {
+				"type": "",
+				"value": "",
+				"weightless": ""
+			},
+			"chatFlavor": "",
+			"consumableType": "potion",
+			"currency": {
+				"gp": "",
+				"pp": ""
+			},
+			"damage": {
+				"parts": [
+					"",
+					"",
+					"",
+					""
+				],
+				"value": "",
+				"versatile": ""
+			},
+			"description": {
+				"unidentified": "Potion"
+			},
+			"duration": {
+				"units": "hour",
+				"value": "1"
+			},
+			"formula": "",
+			"proficient": "",
+			"properties": {
+				"ada": "",
+				"amm": "",
+				"fin": "",
+				"fir": "",
+				"foc": "",
+				"hvy": "",
+				"lgt": "",
+				"lod": "",
+				"mgc": "true",
+				"rch": "",
+				"rel": "",
+				"ret": "",
+				"sil": "",
+				"spc": "",
+				"thr": "",
+				"two": "",
+				"ver": ""
+			},
+			"quantity": "1",
+			"range": {
+				"long": "",
+				"units": "",
+				"value": ""
+			},
+			"rarity": "uncommon",
+			"save": {
+				"ability": "",
+				"dc": "",
+				"scaling": "spell"
+			},
+			"source": "Basic Rules, Player's Handbook pg 187",
+			"stealth": "",
+			"strength": "",
+			"target": {
+				"type": "",
+				"units": "",
+				"value": ""
+			},
+			"toolType": "",
+			"uses": {
+				"autoDestroy": "true",
+				"autoUse": "false",
+				"max": "1",
+				"per": "charges",
+				"value": "1"
+			},
+			"weaponType": ""
+		}
+	},
+	"baseitem": "",
+	"desc": "\u003cp\u003eWhen you drink this potion, you can cast the \u003cstrong\u003e\u003c/strong\u003e\u003cstrong\u003eanimal friendship\u003c/strong\u003e spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.\u003c/p\u003e",
+	"dndbeyond": {
+		"avatarUrl": "",
+		"filterType": "Potion",
+		"isConsumable": "true",
+		"isContainer": "false",
+		"isHomebrew": "false",
+		"largeAvatarUrl": "",
+		"pictureUrl": "",
+		"restrictions": "",
+		"sources": [
+			{
+				"pageNumber": "",
+				"sourceId": "1",
+				"sourceType": "2"
+			},
+			{
+				"pageNumber": "187",
+				"sourceId": "2",
+				"sourceType": "1"
+			}
+		],
+		"tags": [
+			"Control",
+			"Communication",
+			"Consumable",
+			"",
+			"",
+			"",
+			""
+		],
+		"type": "Potion"
+	},
+	"effectsApplied": "",
+	"name": "Potion of Animal Friendship",
+	"originalName": "Potion of Animal Friendship",
+	"price": "",
+	"requires_attunement": "",
+	"type": "consumable",
+	"weight": ""
+}
