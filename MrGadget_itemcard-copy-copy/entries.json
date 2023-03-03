@@ -1,0 +1,152 @@
+[
+	{
+		"id": "ENT-830552-772231",
+		"name": " Sentinel Shield ",
+		"data": {
+			"Item": {
+				"flags": {
+					"magicitems": {
+						"destroy": "false",
+						"destroyCheck": "d1",
+						"destroyFlavorText": "reaches 0 charges: it crumbles into ashes and is destroyed.",
+						"recharge": "0",
+						"rechargeType": "t2"
+					}
+				},
+				"system": {
+					"ability": "",
+					"actionType": "",
+					"activation": {
+						"cost": "0",
+						"type": ""
+					},
+					"armor": {
+						"dex": "",
+						"type": "trinket",
+						"value": "10"
+					},
+					"attackBonus": "0",
+					"capacity": {
+						"type": "weight",
+						"value": "500",
+						"weightless": "true"
+					},
+					"chatFlavor": "",
+					"consumableType": "",
+					"currency": {
+						"gp": "",
+						"pp": ""
+					},
+					"damage": {
+						"parts": [
+							"",
+							"",
+							"",
+							""
+						],
+						"value": "",
+						"versatile": ""
+					},
+					"description": {
+						"unidentified": "Wondrous item"
+					},
+					"duration": {
+						"units": "",
+						"value": ""
+					},
+					"formula": "",
+					"proficient": "true",
+					"properties": {
+						"ada": "",
+						"amm": "",
+						"fin": "",
+						"fir": "",
+						"foc": "",
+						"hvy": "",
+						"lgt": "",
+						"lod": "",
+						"mgc": "true",
+						"rch": "",
+						"rel": "",
+						"ret": "",
+						"sil": "",
+						"spc": "",
+						"thr": "",
+						"two": "",
+						"ver": ""
+					},
+					"quantity": "1",
+					"range": {
+						"long": "",
+						"units": "",
+						"value": ""
+					},
+					"rarity": "uncommon",
+					"save": {
+						"ability": "",
+						"dc": "",
+						"scaling": "spell"
+					},
+					"source": "Basic Rules, Player's Handbook pg 153",
+					"stealth": "false",
+					"strength": "0",
+					"target": {
+						"type": "",
+						"units": "",
+						"value": ""
+					},
+					"toolType": "",
+					"uses": {
+						"autoDestroy": "",
+						"autoUse": "",
+						"max": "0",
+						"per": "",
+						"value": "0"
+					},
+					"weaponType": ""
+				}
+			},
+			"baseitem": "",
+			"desc": "While holding this shield, you have advantage on initiative rolls and Wisdom (Perception) checks. The shield is emblazoned with a symbol of an eye.\n\nA shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.",
+			"dndbeyond": {
+				"avatarUrl": "https://www.dndbeyond.com/avatars/18/895/636381754110020421.jpeg",
+				"filterType": "Armor",
+				"isConsumable": "false",
+				"isContainer": "true",
+				"isHomebrew": "false",
+				"largeAvatarUrl": "https://www.dndbeyond.com/avatars/7/120/636284708068284913.jpeg",
+				"pictureUrl": "https://www.dndbeyond.com/avatars/7/120/636284708068284913.jpeg",
+				"restrictions": "",
+				"sources": [
+					{
+						"pageNumber": "",
+						"sourceId": "1",
+						"sourceType": "2"
+					},
+					{
+						"pageNumber": "153",
+						"sourceId": "2",
+						"sourceType": "1"
+					}
+				],
+				"tags": [
+					"Utility",
+					"Container",
+					"",
+					"",
+					"",
+					"",
+					""
+				],
+				"type": "Wondrous item"
+			},
+			"effectsApplied": "",
+			"name": " Sentinel Shield ",
+			"originalName": " Sentinel Shield ",
+			"price": "20000",
+			"requires_attunement": "",
+			"type": "equipment",
+			"weight": "6"
+		}
+	}
+]
